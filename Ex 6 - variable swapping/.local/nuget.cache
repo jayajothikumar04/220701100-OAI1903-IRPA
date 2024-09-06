@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "111wzPB9uRLf7EaAXSkQldHOFTpxTeghQFdg512oTMDHHEz8OLvlhz+zZKP3BF4Jklm6RgVKmNkxeI1kHcQM0Q==",
+  "dgSpecHash": "7AGvcqssI05psTiYIxHYM7pxsDPq1NwKCqk8fxmrXcmeMYepM5Qldqud/WG/+fwcjfWHPw0+pCm+WfCGzh4G9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jayaj\\Desktop\\IRPA\\Lab\\Ex 6\\.local\\",
+  "projectFilePath": "C:\\Users\\jayaj\\Desktop\\IRPA\\Lab\\Ex 6 - variable swapping\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\jayaj\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\jayaj\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
