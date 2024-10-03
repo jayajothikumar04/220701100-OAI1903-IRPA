@@ -1,5 +1,5 @@
 {
-  "name": "Ex 6",
+  "name": "ScreenScraping2",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -12,7 +12,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "21.10.10.0",
-  "projectVersion": "1.0.1",
+  "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -42,11 +42,11 @@
     "fileInfoCollection": [],
     "modernBehavior": true
   },
-  "expressionLanguage": "CSharp",
+  "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "91b0a5f2-5036-412c-bf50-2f77d15cc168",
+      "uniqueId": "154a3d22-4942-47f5-b85b-8897ef8ffbe8",
       "input": [],
       "output": []
     }
